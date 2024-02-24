@@ -1,0 +1,3 @@
+NESTE PROJETO FOI TRABALHANDO A CRIAÇÃO DE UM OPTIONS API QUE ESTÁ DENTRO DA PASTA 
+
+`src/components/Reactivy/OptionsApi.vue`
